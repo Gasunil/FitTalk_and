@@ -1,0 +1,2 @@
+rootProject.name = "FitTalk_and"
+include ':app'
